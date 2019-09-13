@@ -1,2 +1,0 @@
-# PikabuiCaesarTry
-Created with CodeSandbox
